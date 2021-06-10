@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.15">
+    <CLASSES>
+      <root url="jar://E:/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://E:/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://E:/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://E:/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://E:/libs/okio-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
